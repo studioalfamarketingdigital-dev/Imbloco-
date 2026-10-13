@@ -1,0 +1,6 @@
+{
+  "name": "Imbloco",
+  "description": "Site imobiliário completo com filtros avançados de busca, galeria de fotos de alta qualidade, chat online, mapa interativo e sistema de agendamento de visitas para corretores.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
